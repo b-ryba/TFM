@@ -9,7 +9,8 @@ Además, se incluye el código de la interfaz gráfica completa que es posible d
 
 - Interfaz_grafica_completa.ipynb
 
-
-<img align="center" width="524" alt="voila2" src="https://user-images.githubusercontent.com/64076457/120671474-b4598600-c491-11eb-99a1-e3ae4556c93e.png">
+<p align="center">
+   <img width="524" alt="voila2" src="https://user-images.githubusercontent.com/64076457/120671474-b4598600-c491-11eb-99a1-e3ae4556c93e.png">
+</p>
 
 
