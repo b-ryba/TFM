@@ -14,6 +14,6 @@ Además, se incluye el código de la interfaz gráfica completa que es posible d
 </p>
 
 El *dataset* utilizado se encuentra disponible en:  
-[A dataset for microscopic peripheral blood cell images for development of automatic recognition systems](https://data.mendeley.com/datasets/snkd93bnjr/1 "Google's Homepage") 
+[A dataset for microscopic peripheral blood cell images for development of automatic recognition systems](https://data.mendeley.com/datasets/snkd93bnjr/1 "https://data.mendeley.com/datasets/snkd93bnjr/1") 
 
 
